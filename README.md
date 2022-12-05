@@ -1,1 +1,10 @@
 # coding-one-wx
+The work is inspired by ancient rituals and I was inspired by Cthulhu culture and wanted to create an eerie, chaotic and mysterious ritual. I framed the image at the very beginning of the ritual, a moment when the mysterious creature first appears. My work consists of box space + main model + secondary model + sound
+
+The box space: I started by building a three-dimensional space, for its six sides I chose to use my previous images for the texture, for the front and back I used the monument images I had made and for the other four sides I used psychedelic textures to create a chaotic atmosphere. I chose to use a dark red tone as the base colour for the whole space, I wanted to create a sense of unease and eeriness.
+
+The main model: For the main model I used 3 sets of twisted columns to create the ancient vine creatures (tentacles), I adjusted the twist and size of the model to make them twist together.I positioned the camera in the centre of the frame. I added a sphere model as the core to make it the visual centrepiece of the piece. For the main model I wanted to convey the panic, excitement and confusion of the unknown at the beginning of the ritual, when the mysterious creatures first appear.
+
+Auxiliary models: I added auxiliary models around them to make them rotate on their own to create atmosphere and fill the frame. I adjusted their position, size and speed of rotation to make them look less homogenous and to create a sense of chaos in the image. I used the same type of model as the subject, I wanted to give them a subordinate and dependent relationship. I gave them a green material (which looks like jade) to create a contrasting red and green in the image to highlight the subject's model.
+
+Sound: For the music, I chose a soundtrack from Dune for the material, I wanted it to be ethereal and mystical. I processed the music, I started by slowing it down and giving it a noise-ification, making the track drag back a bar so that it didn't sound very comfortable and clear. to add a sense of unease and confusion to the piece.
